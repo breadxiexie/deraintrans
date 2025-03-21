@@ -6,6 +6,9 @@
 权重文件的链接：https://pan.baidu.com/s/1ZIaFeHWQAyk_bI36risB2A?pwd=cb9n，
 
 图像结果：https://pan.baidu.com/s/1qjwGN-cXHFCbbEMGL5kmog?pwd=4fr9
+
+
+
 First of all, thank you very much for this job: https://github.com/jeya-maria-jose/TransWeather/ 
 Our code comes from them, and requirements can also refer to them
 To conduct testing, first place the test image in the data/test/test folder, then run listtest. py, and then run test_raindrop to find the results in the results folder
